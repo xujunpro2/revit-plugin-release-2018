@@ -4,7 +4,7 @@
     <Assembly>Export.dll</Assembly>
     <AddInId>fdd149fd-f2fc-4f6c-8480-33ae050cbf02</AddInId>
     <FullClassName>Export.Main</FullClassName>
-    <Text>Rvt文件导出</Text>
+    <Text>BIMI轻量化导出</Text>
     <VendorId>XUJUN</VendorId>
   </AddIn>
 </RevitAddIns>
