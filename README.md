@@ -1,1 +1,1 @@
-Revit2018导出插件
+Revit2018导出插件,导出的轻量化文件可应用于BIMI Web SDK
